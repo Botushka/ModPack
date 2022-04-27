@@ -1,0 +1,17 @@
+name: ImThicc
+version: '${project.version}'
+main: me.gram.imthicc.ImThicc
+api-version: 1.17
+
+commands:
+  wildesttp:
+    description: WORORK
+  invs:
+    description: BRU
+  setspawn:
+    description: setspawn
+  spawn:
+    description: tp to spawn
+
+
+
